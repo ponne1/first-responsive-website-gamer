@@ -412,7 +412,6 @@ nav {
 
 .footer-details {
     color: #FFF;
-    text-align: center;
     font-size: 1.125rem;
     font-weight: 600;
     display: inline-flex;
@@ -433,10 +432,6 @@ nav {
     text-align: center;
     font-weight: 500;
 }
-
-
-
-
 
 /* mobile version */
 @media screen and (max-width:576px) {
